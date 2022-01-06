@@ -1,6 +1,6 @@
 """
 Combined first name and last name using array.
-
+Nama unik/uniqe name
 """
 
 from random import shuffle, seed
