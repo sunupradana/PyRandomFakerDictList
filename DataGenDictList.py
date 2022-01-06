@@ -12,7 +12,9 @@ from faker import Faker
 JUMLAHITERASI = 4
 
 # dataz = np.array([ int() ])
-dataz = [ int() ]
+#dataz = [ int() ]
+dataz = []
+
 
 #namez = np.array([])
 namez = []
