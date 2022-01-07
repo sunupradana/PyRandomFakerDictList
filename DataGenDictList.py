@@ -2,6 +2,8 @@
 Data generator untuk latihan. 
 
 list, dictionary, array
+
+https://replit.com/@sunupradana/Data-Generator-Latihan-01
 """
 
 # import pandas as pd
