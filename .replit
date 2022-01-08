@@ -1,2 +1,3 @@
-language = "python3"
-run = ""
+run="python PandasSeriesTesting.py"
+language="python3"
+onBoot="echo Booting up!"
